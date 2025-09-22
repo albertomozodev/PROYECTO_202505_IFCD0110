@@ -206,6 +206,25 @@
                 "JS" : 4,
                 "WP" :0
              }
+        },
+         {
+            "Nombre":"Alberto Mozo dev",
+            "email" : "fp9325467@gmail.com",
+            "linked" : "",
+            "github" : "franco-pizarro",
+            "url" : "https://cvcssfp.netlify.app/",
+            "inicio" : {    
+                "html" : 1,
+                "css" : 1,
+                "JS" : 1,
+                "WP" :0            
+            },
+            "fin" : {    
+                "html" : 4,
+                "css" : 4,
+                "JS" : 4,
+                "WP" :0
+             }
         }
     ]
 }
